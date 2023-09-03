@@ -83,3 +83,4 @@ RTL realization
 ![image](https://github.com/sharvesh22007268/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/143207601/530738b2-ea3e-4082-bdcb-8139f963b3dc)
 
 ### Result:
+Thus the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified.
